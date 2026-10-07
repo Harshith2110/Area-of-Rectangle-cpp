@@ -36,7 +36,7 @@ Invalid length. It must be a positive number, not letters, zero, or negative.
 
 ## Known limitation
 
-Input like `5abc` is read as `5`, and the leftover `abc` can break the next input. A future version will fix this with `!(cin >> length)`.
+Input like `5abc` is read as `5`, and the leftover `abc` can break the next input. 
 
 ## Author
 
